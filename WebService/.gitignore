@@ -1,0 +1,13 @@
+# SBT
+/project/
+*.swp
+/target/
+
+# Eclipse project
+/.cache
+/.classpath
+/.project
+/.settings/
+
+# IntelliJ IDEA project
+/.idea/
